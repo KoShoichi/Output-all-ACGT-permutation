@@ -58,6 +58,6 @@ public class main {
 				}
 			}
 		}
-		
+		number.close();	
 	}
 }
